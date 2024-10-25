@@ -1,16 +1,36 @@
-## Hi there 👋
+# Ellen Feuchtwanger
 
-<!--
-**FeuchE/feuche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
+I am a keen programmer, adept in **HTML**, **CSS** and **JavaScript.**
+I am looking for a role as a web developer or UX designer.
+I want to design websites that **solve** users **problems**
+**Creative**, **analytical** and **technical focus**.
+Keen **problem solver**, clear **communication** and **leadership**.
+Unique edge coming from a **business background**, I will ensure company values and targets are met.
 
-Here are some ideas to get you started:
+## I'm currently learning
+Skills Bootcamp in Cloud Web Development (Fundamentals) at CoGrammer Hyperiondev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Techincal skills
+| Rank | Languages     |
+|-----:|---------------|
+|     1| HTML          |
+|     2| CSS           |
+|     3| JavaScript    |
+
+## Soft skills
+| Rank | Soft skills       |
+|-----:|-------------------|
+|     1| Communication     |
+|     2| Collaboration     |
+|     3| Critical thinking |
+|     4| Problem solver    |
+
+## How to reach me 🖥️
+email: feuche@gmail.com
+phone number: 07757909928
+
+## Fun fact🎨
+I create cosplays, bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
+You can see my cosplays on my [website](https://creative.elfe.co.uk/category/artwork-craft-cosplays-and-costumes/cosplay-and-costumes/cosplays/)
+
