@@ -8,9 +8,6 @@ I want to design websites that **solve** users **problems**
 Keen **problem solver**, clear **communication** and **leadership**.
 Unique edge coming from a **business background**, I will ensure company values and targets are met.
 
-## I'm currently learning
-Skills Bootcamp in Cloud Web Development (Fundamentals) at CoGrammer Hyperiondev
-
 ## Techincal skills
 | Rank | Languages     |
 |-----:|---------------|
