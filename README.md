@@ -29,5 +29,5 @@ phone number: 07757909928
 
 ## Fun fact🎨
 I create cosplays, bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
-You can see my cosplays on my [website](https://creative.elfe.co.uk/category/artwork-craft-cosplays-and-costumes/cosplay-and-costumes/cosplays/)
+
 
