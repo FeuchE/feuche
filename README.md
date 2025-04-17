@@ -3,9 +3,9 @@
 ## Bio
 I am a keen programmer, adept in **HTML**, **CSS** and **JavaScript.**
 I am looking for a role as a web developer or UX designer.
-I want to design websites that **solve** users **problems**
-**Creative**, **analytical** and **technical focus**.
-Keen **problem solver**, clear **communication** and **leadership**.
+I want to design websites that **solve** users **problems.**
+**Creative**, **analytical** and **technical focus.**
+Keen **problem solver**, clear **communication** and **leadership.**
 Unique edge coming from a **business background**, I will ensure company values and targets are met.
 
 ## Techincal skills
