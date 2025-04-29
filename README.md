@@ -25,7 +25,6 @@ Unique edge coming from a **business background**, I will ensure company values 
 
 ## How to reach me 🖥️
 email: feuche@gmail.com
-phone number: 07757909928
 
 ## Fun fact🎨
 I create cosplays, bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
