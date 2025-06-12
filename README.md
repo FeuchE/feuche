@@ -28,6 +28,7 @@ Unique edge coming from a **business background**, I will ensure company values 
 
 ## How to reach me 🖥️
 Email: feuche@gmail.com
+LinkedIn: https://www.linkedin.com/in/ellen-feuchtwanger
 
 ## Fun fact🎨
 I create cosplays, bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
