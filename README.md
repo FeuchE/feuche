@@ -28,8 +28,8 @@ A self-starter, with a proven track record of delivering **Full-stack Developmen
 
 ## How to reach me 🖥️
 Email: feuche@gmail.com | 
-LinkedIn: https://www.linkedin.com/in/ellen-feuchtwanger | 
-Portfolio: https://www.ellens-portfolio.xyz
+LinkedIn: www.linkedin.com/in/ellen-feuchtwanger | 
+Portfolio: www.ellens-portfolio.xyz
 
 ## Fun facts🎨
 - **Cosplayer:** Bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
