@@ -33,6 +33,6 @@ Portfolio: www.ellens-portfolio.xyz
 
 ## 🌟 Fun facts
 - 🎨 **Cosplayer:** Bringing my favourite fictional characters to life. Cosplay has always captivated me, as they can transport you to another world.
-- 🏹 **Archer:** National competition winner in barebow.
-- 🎸 **Music reviewer:** Reviewer and photographer for live rock and metal concerts.
+- 🏹 **Archer:** National competition winner in barebow. Now exploring traditional bows from around the world.
+- 🎸 **Music reviewer:** Reviewer and photographer for live rock and metal concerts, for US online magazine GrandeRock.
 
