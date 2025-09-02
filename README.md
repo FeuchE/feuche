@@ -1,7 +1,7 @@
 # Ellen Feuchtwanger
 
 ## 👤 Bio
-A self-starter, with a proven track record of delivering **Full-stack Development**, fuelled by a passion for building products. The hunger to **solve user problems** and showcase my technical ability. Able to adapt to project requirements, whether that be 360 implementation from discovery to go live or joining during any part of the life cycle, displayed in my projects **GreenovateHub, HapsHub and VintHub**. A recent graduate of Le Wagon’s Webdev Bootcamp, and **hackathon enthusiast**, passionate about blending slick, user-centric design with a technical engineering skillset to build joyful digital experiences.
+A self-starter, with a proven track record of delivering **Full-stack Development**, fuelled by a passion for building products. The hunger to **solve user problems** and showcase my technical ability. Able to adapt to project requirements, whether that be 360 implementation from discovery to go live or joining during any part of the life cycle, displayed in my projects **GreenovateHub, HapsHub, TerritoryForge and VintHub**. A recent graduate of Le Wagon’s Webdev Bootcamp, and **hackathon enthusiast**, passionate about blending slick, user-centric design with a technical engineering skillset to build joyful digital experiences.
 
 ## 🛠️ Top 10 Techincal skills
 | Rank | Languages                          |
@@ -9,9 +9,9 @@ A self-starter, with a proven track record of delivering **Full-stack Developmen
 |     1| Ruby                               |
 |     2| Ruby on Rails                      |
 |     3| JavaScript                         |
-|     4| HTML & CSS                         |
-|     5| SQL                                |
-|     6| ORM (Active Record)                |
+|     4| Java                               |
+|     5| HTML & CSS                         |
+|     6| SQL                                |
 |     7| OOP (Class, Self and Inheritance)  |
 |     8| WordPress                          |
 |     9| Figma                              |
